@@ -4,6 +4,8 @@ This project is a static web page and created by using HTML(Hypertext Markup Lan
 
 Static web pages do not have any dynamic content or server-side processing, they are lightweight and load quickly. However, this is limited in terms of interactivity and cannot provide the same level of user engagement and functionality as dynamic web pages.
 
+                    
+https://muskan-thakur.github.io/instagram-cover-static-page/
 
             first page(Screenshot):
 ![first](https://user-images.githubusercontent.com/106293646/235297380-e3dfd5eb-1890-4461-8ed7-3e506abf43c6.png)
